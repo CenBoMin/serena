@@ -212,7 +212,7 @@ pylint.html
 .cpcache/
 .lsp/
 
-# Cache is in .multilspy 
+# Cache is in .multilspy
 **/.multilspy/**
 
 tmp/
